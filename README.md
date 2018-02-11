@@ -15,6 +15,10 @@ I tried [Quickstart: Compose and Rails](https://docs.docker.com/compose/rails/).
    
 1. [Setup config/database.yml](https://docs.docker.com/compose/rails/#connect-the-database).
 
+1. Rebuild Docker Image and Up Container
+
+   * ```docker-compose up --build```
+
 1. [View the Rails welcome page!](https://docs.docker.com/compose/rails/#connect-the-database)
 
 * Database creation
