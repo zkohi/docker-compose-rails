@@ -8,6 +8,13 @@ I tried [Quickstart: Compose and Rails](https://docs.docker.com/compose/rails/).
 
 * Configuration
 
+Use [Rails Composer](https://github.com/RailsApps/rails-composer)
+```
+docker-compose run web rails new . -m https://raw.github.com/RailsApps/rails-composer/master/composer.rb
+```
+
+Select postgres in DB Section and [setup config/database.yml](https://docs.docker.com/compose/rails/#connect-the-database).
+
 * Database creation
 
 * Database initialization
