@@ -13,7 +13,7 @@ I tried [Quickstart: Compose and Rails](https://docs.docker.com/compose/rails/).
    * ```docker-compose run web rails new . -m https://raw.github.com/RailsApps/rails-composer/master/composer.rb```
    * Select postgres in DB Section
    
-1.[Setup config/database.yml](https://docs.docker.com/compose/rails/#connect-the-database).
+1. [Setup config/database.yml](https://docs.docker.com/compose/rails/#connect-the-database).
 
 1. [View the Rails welcome page!](https://docs.docker.com/compose/rails/#connect-the-database)
 
