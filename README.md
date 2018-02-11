@@ -9,6 +9,7 @@ I tried [Quickstart: Compose and Rails](https://docs.docker.com/compose/rails/).
 * Configuration
 
 1. Use [Rails Composer](https://github.com/RailsApps/rails-composer)
+
 ```
 docker-compose run web rails new . -m https://raw.github.com/RailsApps/rails-composer/master/composer.rb
 ```
