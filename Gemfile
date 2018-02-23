@@ -57,6 +57,7 @@ gem 'bootstrap', '~> 4.0.0'
 gem 'haml-rails'
 gem 'high_voltage'
 gem 'pg', '~> 0.18'
+gem 'webpacker', '~> 3.2'
 
 group :development do
   gem 'better_errors'
